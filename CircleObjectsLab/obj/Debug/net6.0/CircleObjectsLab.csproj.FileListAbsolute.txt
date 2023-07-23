@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.AssemblyInfo.cs
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net6.0\CircleObjectsLab.exe
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net6.0\CircleObjectsLab.deps.json
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net6.0\CircleObjectsLab.runtimeconfig.json
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net6.0\CircleObjectsLab.dll
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\bin\Debug\net6.0\CircleObjectsLab.pdb
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.dll
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\refint\CircleObjectsLab.dll
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.pdb
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\CircleObjectsLab.genruntimeconfig.cache
+C:\Users\osabd\source\repos\CircleObjectsLab\CircleObjectsLab\obj\Debug\net6.0\ref\CircleObjectsLab.dll
