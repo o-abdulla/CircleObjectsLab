@@ -16,25 +16,25 @@ namespace CircleObjectsLab
             Radius = _radius;
         }
         //Methods
-        public double CalculateDiameter(double diameter)
+        public double CalculateDiameter()
         {
-            return diameter = 2 * Radius;
+            return 2 * Radius;
         }
-        public double CalculateCircumference(double circum)
+        public double CalculateCircumference()
         {
-            return circum = 2 * Math.PI * Radius;
+            return 2 * Math.PI * Radius;
         }
-        public double CalculateArea(double area)
+        public double CalculateArea()
         {
-            return area = Math.PI * (Radius * Radius);
+            return Math.PI * (Radius * Radius); // Math.Pow(Radius, 2)
         }
         public void Grow()
         {
-            Console.WriteLine("The circle is magically growing.");
+            Radius *= 2;           // Radius = Radius * 2
         }
-        public double GetRadius(double get)
+        public double GetRadius()
         {
-            return Radius * 2;
+            return Radius;
         }
     }
 }
